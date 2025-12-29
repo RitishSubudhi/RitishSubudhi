@@ -42,6 +42,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitishSubudhi&layout=compact&theme=radical"/>
 </p>
 
-
-
 <hr>
