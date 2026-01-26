@@ -41,7 +41,7 @@
 <hr>
 <h2>🧠 Problem Solving & Coding Profiles</h2>
 
-<a href="https://leetcode.com/u/ritish-subudh/" target="_blank">
+<a href="https://leetcode.com/u/ritish-subudhi/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
